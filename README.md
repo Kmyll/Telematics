@@ -1,6 +1,6 @@
 # Telematics
 
-![image info](./assets/mockup/Telematics_ReadMe.png style="border-radius:10px")
+![image info](./assets/mockup/Telematics_ReadMe.png)
 
 ## run the application
 
