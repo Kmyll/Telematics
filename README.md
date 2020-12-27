@@ -11,14 +11,14 @@
 - With your phone camera, or with the Expo app, scan the QR code that appears either on the browser or the CLI
 - Enjoy!
 
-### Features
+## Features
 
 - Dashboard page
 - My driver score page
 - My trips page
 - About page
 
-### Tech Stack
+## Tech Stack
 
 - React Native (Expo)
 - Npm
